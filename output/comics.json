@@ -1,17 +1,5 @@
 [
     {
-        "title": "The Academy’s Sashimi Sword Master",
-        "chapter_count": 55,
-        "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Harem",
-            "Seinen"
-        ],
-        "source": "https://asuracomic.net/series/the-academys-sashimi-sword-master-0344c037"
-    },
-    {
         "title": "The Fox-Eyed Villain of the Demon Academy",
         "chapter_count": 53,
         "genres": [
@@ -24,6 +12,35 @@
             "Supernatural",
             "Tragedy"
         ],
-        "source": "https://asuracomic.net/series/the-fox-eyed-villain-of-the-demon-academy-6fb52b3a"
+        "source": "https://asuracomic.net/series/the-fox-eyed-villain-of-the-demon-academy-6fb52b3a",
+        "created_at": "2025-12-03T03:02:37.287802+00:00",
+        "updated_at": "2025-12-03T03:02:37.287802+00:00"
+    },
+    {
+        "title": "The Academy’s Sashimi Sword Master",
+        "chapter_count": 55,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Harem",
+            "Seinen"
+        ],
+        "source": "https://asuracomic.net/series/the-academys-sashimi-sword-master-0344c037",
+        "created_at": "2025-12-03T03:02:37.995494+00:00",
+        "updated_at": "2025-12-03T03:02:37.995494+00:00"
+    },
+    {
+        "title": "Solo Leveling",
+        "chapter_count": 200,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Shounen"
+        ],
+        "source": "https://asuracomic.net/series/solo-leveling-25205247",
+        "created_at": "2025-12-03T03:02:38.357647+00:00",
+        "updated_at": "2025-12-03T03:02:38.357647+00:00"
     }
 ]
