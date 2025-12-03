@@ -1,1 +1,29 @@
-
+[
+    {
+        "title": "The Academy’s Sashimi Sword Master",
+        "chapter_count": 55,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Harem",
+            "Seinen"
+        ],
+        "source": "https://asuracomic.net/series/the-academys-sashimi-sword-master-0344c037"
+    },
+    {
+        "title": "The Fox-Eyed Villain of the Demon Academy",
+        "chapter_count": 53,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crazy MC",
+            "Fantasy",
+            "Martial Arts",
+            "Mystery",
+            "Supernatural",
+            "Tragedy"
+        ],
+        "source": "https://asuracomic.net/series/the-fox-eyed-villain-of-the-demon-academy-6fb52b3a"
+    }
+]
