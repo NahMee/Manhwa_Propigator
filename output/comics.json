@@ -102,5 +102,83 @@
         "thumbnail_url": "https://gg.asuracomic.net/storage/media/368311/conversions/01K7Y2D725FJ9QH0EH4Q9BX58W-optimized.webp",
         "created_at": "2025-12-04T02:51:08.740299+00:00",
         "updated_at": "2025-12-04T02:51:08.740299+00:00"
+    },
+    {
+        "title": "The World After The End",
+        "chapter_count": 210,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Shounen"
+        ],
+        "source": "https://asuracomic.net/series/the-world-after-the-end-4fa706c6",
+        "thumbnail_url": "https://gg.asuracomic.net/storage/media/258/conversions/01J3BAY4P9AZ1Y9GGSAAP2HQ1K-optimized.webp",
+        "created_at": "2025-12-04T03:02:11.631578+00:00",
+        "updated_at": "2025-12-04T03:02:11.631578+00:00"
+    },
+    {
+        "title": "The Tutorial is Too Hard",
+        "chapter_count": 246,
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Game",
+            "Shounen"
+        ],
+        "source": "https://asuracomic.net/series/the-tutorial-is-too-hard-ee46ff81",
+        "thumbnail_url": "https://gg.asuracomic.net/storage/media/145/conversions/af610648-optimized.webp",
+        "created_at": "2025-12-04T03:02:12.016284+00:00",
+        "updated_at": "2025-12-04T03:02:12.016284+00:00"
+    },
+    {
+        "title": "Bad Born Blood",
+        "chapter_count": 64,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-fi"
+        ],
+        "source": "https://asuracomic.net/series/bad-born-blood-d31ac4d8",
+        "thumbnail_url": "https://gg.asuracomic.net/storage/media/287436/conversions/01JRPWTRPD1Y6F4BB3V7274741-optimized.webp",
+        "created_at": "2025-12-04T03:02:12.693587+00:00",
+        "updated_at": "2025-12-04T03:02:12.693587+00:00"
+    },
+    {
+        "title": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai",
+        "chapter_count": 53,
+        "genres": [],
+        "thumbnail_url": "https://uploads.mangadex.org/covers/8791c515-0245-4fcc-81cc-22863a0aba6b/0cd6c47e-5a8b-4a09-a26f-8563bea46e6e.jpg",
+        "source": "https://mangadex.org/title/8791c515-0245-4fcc-81cc-22863a0aba6b",
+        "created_at": "2025-12-04T03:02:13.225352+00:00",
+        "updated_at": "2025-12-04T03:02:13.225352+00:00"
+    },
+    {
+        "title": "Bouryoku Banzai",
+        "chapter_count": 37,
+        "genres": [],
+        "thumbnail_url": "https://uploads.mangadex.org/covers/29024a93-5372-42aa-9629-0d9328517869/2130b0bc-ae8c-406c-8c40-dc1e68ab8dbd.jpg",
+        "source": "https://mangadex.org/title/29024a93-5372-42aa-9629-0d9328517869",
+        "created_at": "2025-12-04T03:02:14.082920+00:00",
+        "updated_at": "2025-12-04T03:02:14.082920+00:00"
+    },
+    {
+        "title": "Rebuild World",
+        "chapter_count": 75,
+        "genres": [],
+        "thumbnail_url": "https://uploads.mangadex.org/covers/99182618-ae92-4aec-a5df-518659b7b613/a9d7c446-5aae-4668-832e-efbcb78dfddc.jpg",
+        "source": "https://mangadex.org/title/99182618-ae92-4aec-a5df-518659b7b613",
+        "created_at": "2025-12-04T03:02:14.976530+00:00",
+        "updated_at": "2025-12-04T03:02:14.976530+00:00"
+    },
+    {
+        "title": "Hametsu no Oukoku",
+        "chapter_count": 58,
+        "genres": [],
+        "thumbnail_url": "https://uploads.mangadex.org/covers/2750ed89-ea66-4c0c-ab05-7417a9e0de3e/18f38964-fc3e-4273-9265-422b32847e3e.jpg",
+        "source": "https://mangadex.org/title/2750ed89-ea66-4c0c-ab05-7417a9e0de3e",
+        "created_at": "2025-12-04T03:02:15.927240+00:00",
+        "updated_at": "2025-12-04T03:02:15.927240+00:00"
     }
 ]
