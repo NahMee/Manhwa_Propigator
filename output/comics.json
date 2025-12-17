@@ -81,7 +81,7 @@
     },
     {
         "title": "Pick Me Up, Infinite Gacha",
-        "chapter_count": 180,
+        "chapter_count": 179,
         "genres": [
             "Action",
             "Adventure",
@@ -92,7 +92,7 @@
         "source": "https://asuracomic.net/series/pick-me-up-infinite-gacha-434e9465",
         "thumbnail_url": "https://gg.asuracomic.net/storage/media/368311/conversions/01K7Y2D725FJ9QH0EH4Q9BX58W-optimized.webp",
         "created_at": "2025-12-17T11:33:31.031525+00:00",
-        "updated_at": "2025-12-17T22:16:13.640861+00:00"
+        "updated_at": "2025-12-17T11:33:31.031525+00:00"
     },
     {
         "title": "The Tutorial is Too Hard",
@@ -180,5 +180,20 @@
         "thumbnail_url": "https://gg.asuracomic.net/storage/media/258/conversions/01J3BAY4P9AZ1Y9GGSAAP2HQ1K-optimized.webp",
         "created_at": "2025-12-17T11:35:03.897080+00:00",
         "updated_at": "2025-12-17T11:35:03.897080+00:00"
+    },
+    {
+        "title": "Limit-Breaking Genius Mage",
+        "chapter_count": 39,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Magic",
+            "Revenge"
+        ],
+        "source": "https://asuracomic.net/series/limit-breaking-genius-mage-19f7f49b",
+        "thumbnail_url": "https://gg.asuracomic.net/storage/media/318811/conversions/01JX4CM19EW4F61PT28VFJV5AH-optimized.webp",
+        "created_at": "2025-12-17T22:16:21.509396+00:00",
+        "updated_at": "2025-12-17T22:16:21.509396+00:00"
     }
 ]
