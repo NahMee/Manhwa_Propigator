@@ -181,5 +181,19 @@
         "source": "https://mangadex.org/title/2750ed89-ea66-4c0c-ab05-7417a9e0de3e",
         "created_at": "2025-12-18T01:00:00.396574+00:00",
         "updated_at": "2025-12-18T01:00:00.396574+00:00"
+    },
+    {
+        "title": "Bad Born Blood",
+        "chapter_count": 66,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-fi"
+        ],
+        "source": "https://asuracomic.net/series/bad-born-blood-db63a601",
+        "thumbnail_url": "https://gg.asuracomic.net/storage/media/287436/conversions/01JRPWTRPD1Y6F4BB3V7274741-optimized.webp",
+        "created_at": "2025-12-18T01:01:08.862595+00:00",
+        "updated_at": "2025-12-18T01:01:08.862595+00:00"
     }
 ]
