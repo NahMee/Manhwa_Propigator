@@ -224,5 +224,22 @@
         "thumbnail_url": "https://gg.asuracomic.net/storage/media/258/conversions/01J3BAY4P9AZ1Y9GGSAAP2HQ1K-optimized.webp",
         "created_at": "2025-12-18T00:01:27.015184+00:00",
         "updated_at": "2025-12-18T00:01:27.015184+00:00"
+    },
+    {
+        "title": "Infinite Mage",
+        "chapter_count": 149,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Genius MC",
+            "Shounen",
+            "Supernatural"
+        ],
+        "source": "https://asuracomic.net/series/infinite-mage-875ff03a",
+        "thumbnail_url": "https://gg.asuracomic.net/storage/media/103/conversions/9ab6b724-optimized.webp",
+        "created_at": "2025-12-18T00:03:47.779876+00:00",
+        "updated_at": "2025-12-18T00:03:47.779876+00:00"
     }
 ]
